@@ -6,7 +6,6 @@ before_script:
 
 # test on two node.js versions: 0.6 and 0.8
 node_js:
-  - 0.4
-  - 0.6
+  - 0.6.20
   - 0.8
   - 0.10
